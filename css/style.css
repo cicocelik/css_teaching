@@ -1,0 +1,55 @@
+/**************** Layout *************/
+
+/* class -> .text-red {} */
+/* id -> #id-bilgisi {} */
+
+.text-red {
+    color: red;
+}
+
+.text-black{
+    color: black;
+}
+
+.fs-14{
+    font-size: 14px;
+}
+
+.fs-20{
+    font-size: 20px;
+}
+
+.fs-30{
+    font-size: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+/* Açıklama Satırı
+
+asdasdasda
+asdasdasd
+sdasdad
+
+
+body {
+    background-color: black;
+    color: white;
+}
+
+h2 {
+    color:green; 
+    font-size: 72px;
+    text-transform: uppercase;
+}
+
+p { 
+    font-size: 30px;
+} */
